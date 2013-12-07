@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-vdmlisting
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Typesetting VDM in ASCII syntax
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vdmlisting
