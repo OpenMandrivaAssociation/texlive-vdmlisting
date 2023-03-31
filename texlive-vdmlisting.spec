@@ -1,6 +1,6 @@
 Name:		texlive-vdmlisting
 Version:	56905
-Release:	1
+Release:	2
 Summary:	Typesetting VDM in ASCII syntax
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vdmlisting
